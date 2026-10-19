@@ -1,4 +1,4 @@
-# ship-it-ar
+# shipkit
 
 Six battle-tested packs for [Claude Code](https://claude.com/claude-code), extracted from a real production codebase and generalized for any project. Build a SaaS, an ecommerce or anything in between: from spec to production, **including charging, invoicing and shipping in Argentina**. Each pack is a set of skills (and, for pack 1, sub-agents) you can drop into `.claude/`.
 
