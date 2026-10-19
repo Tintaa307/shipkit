@@ -14,8 +14,8 @@ Six battle-tested packs for [Claude Code](https://claude.com/claude-code), extra
 ## Install
 
 ```bash
-git clone https://github.com/Tintaa307/ship-it-ar
-cd ship-it-ar
+git clone https://github.com/Tintaa307/shipkit
+cd shipkit
 
 # into the current project (.claude/)
 ./install.sh
